@@ -18,3 +18,5 @@ cli.add_command(deploy.deploy)
 
 def main():
     cli()
+
+main()

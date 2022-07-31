@@ -17,3 +17,8 @@
     apt install bash-completion
     cp run-complete.sh /etc/bash_copletion.d/
 
+
+BASH completion not work in Debian 11    
+
+
+
